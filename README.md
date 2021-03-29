@@ -1,5 +1,12 @@
 # ShoppingList
 
+* This program is made to list down all shopping list to purchase.
+* The program can able to generate mulitple list. 
+
+Below ScreenShot of program.
+![image](https://user-images.githubusercontent.com/39219085/112791348-fd025680-907e-11eb-80fa-0c9058ceff62.png)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
 
 ## Development server
